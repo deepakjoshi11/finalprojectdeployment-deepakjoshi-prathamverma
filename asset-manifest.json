@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/finalproject-VI-SEM-deepakjoshi-prathamverma/static/css/main.872f18c8.chunk.css",
+    "main.js": "/finalproject-VI-SEM-deepakjoshi-prathamverma/static/js/main.ba56a231.chunk.js",
+    "main.js.map": "/finalproject-VI-SEM-deepakjoshi-prathamverma/static/js/main.ba56a231.chunk.js.map",
+    "runtime-main.js": "/finalproject-VI-SEM-deepakjoshi-prathamverma/static/js/runtime-main.0899bb76.js",
+    "runtime-main.js.map": "/finalproject-VI-SEM-deepakjoshi-prathamverma/static/js/runtime-main.0899bb76.js.map",
+    "static/js/2.8b8cdf51.chunk.js": "/finalproject-VI-SEM-deepakjoshi-prathamverma/static/js/2.8b8cdf51.chunk.js",
+    "static/js/2.8b8cdf51.chunk.js.map": "/finalproject-VI-SEM-deepakjoshi-prathamverma/static/js/2.8b8cdf51.chunk.js.map",
+    "index.html": "/finalproject-VI-SEM-deepakjoshi-prathamverma/index.html",
+    "precache-manifest.0590704037dc1ef40a22bea9727670d8.js": "/finalproject-VI-SEM-deepakjoshi-prathamverma/precache-manifest.0590704037dc1ef40a22bea9727670d8.js",
+    "service-worker.js": "/finalproject-VI-SEM-deepakjoshi-prathamverma/service-worker.js",
+    "static/css/main.872f18c8.chunk.css.map": "/finalproject-VI-SEM-deepakjoshi-prathamverma/static/css/main.872f18c8.chunk.css.map",
+    "static/js/2.8b8cdf51.chunk.js.LICENSE.txt": "/finalproject-VI-SEM-deepakjoshi-prathamverma/static/js/2.8b8cdf51.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0899bb76.js",
+    "static/js/2.8b8cdf51.chunk.js",
+    "static/css/main.872f18c8.chunk.css",
+    "static/js/main.ba56a231.chunk.js"
+  ]
+}
